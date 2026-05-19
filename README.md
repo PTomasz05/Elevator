@@ -1,4 +1,4 @@
-# 🛗 Elevator Simulator (Java Swing)
+# Elevator Simulator (Java Swing)
 
 A desktop application that simulates elevator movement with a graphical user interface.  
 The project was created to practice object-oriented programming, GUI development and application logic in Java.
